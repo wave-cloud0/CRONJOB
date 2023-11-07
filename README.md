@@ -8,7 +8,7 @@
 - Submit the content of your script, cronjob and a sample of the email sent, all in the folder for this exercise.
 
 
-## SUBMISSION:
+## DELIVERABLES:
 
 - [Content of Log Bash Script](https://github.com/wave-cloud0/CRONJOB/blob/master/log-bash.sh)
 
